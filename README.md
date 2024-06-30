@@ -44,10 +44,8 @@ This repository contains the code and resources for a machine learning project o
 
 6. Refer to the `README.md` file in each directory for more detailed instructions.
 
-### Contributors
-
-
-
+### Contributor
+kunduru Ishwarya
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
