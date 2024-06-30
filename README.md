@@ -25,12 +25,12 @@ This repository contains the code and resources for a machine learning project o
 ### How to Use
 1. Clone the repository:
    ```
-   
+   https://github.com/Ishwarya200430/Machine_learning/tree/main
    ```
    
 2. Navigate into the project directory:
    ```
-   cd diabetes-prediction
+   
    ```
    
 3. Install dependencies (if necessary):
