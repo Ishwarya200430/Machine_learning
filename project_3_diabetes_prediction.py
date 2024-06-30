@@ -22,7 +22,7 @@ PIMA Diabetes Dataset
 """
 
 # loading the diabetes dataset to a pandas DataFrame
-diabetes_dataset = pd.read_csv('/content/diabetes.csv')
+diabetes_dataset = pd.read_csv('C:\\Users\\Ishwarya\\downloads\\diabetes.csv')
 
 pd.read_csv?
 
