@@ -30,7 +30,7 @@ This repository contains the code and resources for a machine learning project o
    
 2. Navigate into the project directory:
    ```
-   
+   https://github.com/Ishwarya200430/Machine_learning/blob/main/project_3_diabetes_prediction.py
    ```
    
 3. Install dependencies (if necessary):
